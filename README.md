@@ -9,6 +9,7 @@
 	* The code/services are available to anyone with the appropriate credentials from anywhere in the world with an Internet connection. Teams can use this property to collaborate on a project with ease and flexibility
 	* Being centralised services, could computing providers take great care to ensure the safety, security and stability of the uploaded content to a greated extent that would otherwise be possible for a detail operation
 	* Cloud computing in its current form allows for a great deal of scalability. Code-bases and services that were developed for hundreds of customers can be converted to serve tens, hundreds or even millions with ease.
+	* GO GLOBAL IN MINUTES!
 	
 #### What are the use cases of cloud computing?
 - Some of the many use cases in which it's and advantage to use cloud computing is when applying Infrastructure as a Service, Software as a Service, Big Data Analytics, software testing and development and many more. 
@@ -35,8 +36,17 @@
 - Scaling out is adding more, similar resources in order to spread the traffic load *out*
 - Scaling up in increasing the baseline capabilities of your resources
 
+#### Monolithic Architecture vs Layered Architecture
+- Monolithic:
+![img](https://cdn.ttgtmedia.com/rms/onlineImages/monolithic_design_mobile.jpg)
+- Layered:
+![img](
 
 
+###### Naming convention for launching an AWS machine:
+- group name + your name + app
+- Security group works as firewall for the instance of your machine
+- key pair: DevOps Students
 
 
 
