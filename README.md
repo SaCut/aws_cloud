@@ -44,6 +44,13 @@
 - Three Tiers:
 - ![img](https://mk0resourcesinf5fwsf.kinstacdn.com/wp-content/uploads/082516_1119_PracticalTh2.png)
 
+#### Transfer code from a host machine to a AWS instance
+- Secure Copy over SSH to EC2 instance (in host system):
+`scp -ri <file.pem> <file/folder> ubuntu@<ip>:<path>`
+
+#### How to create an EC2
+
+#### How to create an IMA
 
 ###### Naming convention for launching an AWS machine:
 - group name + your name + app
