@@ -38,11 +38,11 @@
 
 #### Monolithic Architecture vs Tiered Architecture
 - Monolithic:
-![img](https://cdn.ttgtmedia.com/rms/onlineImages/monolithic_design_mobile.jpg)
+- ![img](https://cdn.ttgtmedia.com/rms/onlineImages/monolithic_design_mobile.jpg)
 - Two Tiers:
-![img](https://i.pinimg.com/originals/48/05/c4/4805c424fde84a982ceaf857fa3f9cb8.png)
+- ![img](https://i.pinimg.com/originals/48/05/c4/4805c424fde84a982ceaf857fa3f9cb8.png)
 - Three Tiers:
-![img](https://mk0resourcesinf5fwsf.kinstacdn.com/wp-content/uploads/082516_1119_PracticalTh2.png)
+- ![img](https://mk0resourcesinf5fwsf.kinstacdn.com/wp-content/uploads/082516_1119_PracticalTh2.png)
 
 
 ###### Naming convention for launching an AWS machine:
